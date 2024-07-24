@@ -1,0 +1,13 @@
+node_modules*
+settings.json
+db
+.jshintrc
+*.DS_Store
+.idea
+ffprobe
+ffmpeg.exe
+ffprobe.exe
+platform_scripts
+*.rbw
+*.tgz
+dist

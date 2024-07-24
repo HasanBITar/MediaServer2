@@ -1,0 +1,14 @@
+node_modules*
+settings.json
+db
+*.DS_Store
+.idea
+ffmpeg.exe
+ffprobe.exe
+*.iml
+data/
+*.rbw
+*.tgz
+dist
+platform_scripts/nasos/source/rms
+Project.docx
